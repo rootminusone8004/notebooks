@@ -1,0 +1,11 @@
+customer_id,churn,monthly_charges,total_charges,contract_type,tenure_months
+C-01,No,29.85,29.85,Month-to-month,1
+C-02,Yes,56.95,1889.5,One year,34
+C-03,No,53.85,108.15,Month-to-month,2
+C-04,No,42.3,1840.75,One year,45
+C-05,Yes,70.7,151.65,Month-to-month,2
+C-06,No,89.1,267.3,Two year,3
+C-07,No,29.75,301.9,Month-to-month,10
+C-08,Yes,104.8,3087.2,Month-to-month,28
+C-09,No,65.6,587.4,One year,9
+C-10,No,45.3,680.15,Two year,15
